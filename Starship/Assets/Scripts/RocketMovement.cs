@@ -107,7 +107,7 @@ public class RocketMovement : MonoBehaviour
     }
 
     void ApplyRotation(float rotationFrame){
-        rb.freezeRotation = true; //freezinf rotation to manual rotation
+        rb.freezeRotation = true; //freezing rotation to manual rotation
         transform.Rotate(Vector3.forward * rotationFrame * Time.deltaTime);
         rb.freezeRotation = false;
         
