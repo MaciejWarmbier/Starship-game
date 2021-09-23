@@ -9,6 +9,9 @@ EditorBuildSettings:
     path: Assets/Scenes/Labirynth.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
   - enabled: 1
-    path: Assets/Scenes/Under.unity
+    path: Assets/Scenes/Mover.unity
     guid: a3d41f90e80b9d04ca6590d7abe7d650
+  - enabled: 1
+    path: Assets/Scenes/Falling.unity
+    guid: 842b6281435c57d4db0c424f8164d431
   m_configObjects: {}

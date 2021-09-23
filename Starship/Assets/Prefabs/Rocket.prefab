@@ -392,7 +392,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a82329f8c7942f042b5e933f4443048c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  mainThrust: 1000
+  mainThrust: 1100
   sideThrust: 200
   mainEngine: {fileID: 8300000, guid: d9818da8ecd378b4eaefc1311cf8c640, type: 3}
   mainThrusterParticles: {fileID: 3429091294313798898}
