@@ -11,6 +11,7 @@ How to play?
 - Space - Main Thruster
 - L - Skip Level (Debug Tool)
 - C - Turn off collision (Debug Tool)
+- ESC - Quit
 
 
 
